@@ -5,8 +5,8 @@
 ## 🛠️ Tech Stack
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![Spring Framework](https://img.shields.io/badge/-Spring%20Framework-6DB33F?style=flat&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![JSP](https://img.shields.io/badge/-JSP-0095D9?style=flat&logo=apache&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/-MyBatis-009A6C?style=flat&logo=mybatis&logoColor=white)
 
