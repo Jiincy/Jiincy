@@ -1,4 +1,4 @@
-# 👋 Hello! I'm [jincheolyong](https://github.com/jincheolyong)!
+# 👋 Hello! I'm [jincheolyong](https://github.com/Jiincy)!
 
 ---
 
