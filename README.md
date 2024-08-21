@@ -33,13 +33,7 @@
 <div align="center">
 
 📧 **Email:** jincy0104@gmail.com
-
-</div>
-
----
-
-<div align="center">
-
+<br>
 Thank you! 🙌
 
 </div>
