@@ -24,8 +24,8 @@
 ## <div align="center">📊 GitHub Stats</div>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jincheolyong&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jincheolyong&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jincheolyong&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" />
 </div>
 
 ## <div align="center">🤝 Contact</div>
