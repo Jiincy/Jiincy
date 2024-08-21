@@ -2,9 +2,6 @@
 
 ---
 
-## 🤝 Contact
-📧 Email: audrn6689@gmail.com
-
 ## 🛠️ Tech Stack
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) 
@@ -28,5 +25,7 @@
 </div>
 
 ---
+## 🤝 Contact
+📧 Email: jincy0104@gmail.com
 
 Thank you! 🙌
