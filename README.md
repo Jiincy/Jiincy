@@ -40,6 +40,6 @@
 
 <div align="center">
 
-#Thank you! 🙌
+Thank you! 🙌
 
 </div>
