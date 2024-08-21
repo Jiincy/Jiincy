@@ -1,6 +1,5 @@
 # 👋 Hello! I'm [jincheolyong](https://github.com/jincheolyong)
 
----
 
 ## 🛠️ Tech Stack
 
