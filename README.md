@@ -1,4 +1,4 @@
-# <div align="center">👋 Hello! I'm [jincheolyong](https://github.com/jincheolyong)</div>
+# <div align="center">👋 Hello! </div>
 
 ## <div align="center">🛠️ Tech Stack</div>
 
